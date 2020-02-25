@@ -41,7 +41,7 @@ MyComponent.js
 import { LightningElement, track } from 'lwc'
 import STATUS from '@salesforce/schema/Case.Status'
 
-export default class CecCaseForm extends LightningElement {
+export default class MyComponent extends LightningElement {
 
   @track status
   @track recordTypeId = '0120b000000VXQwAAO'
