@@ -1,6 +1,6 @@
 # lwc-picklist
 
-Field level LWC to wrap both `getPicklistValues` from `lightning/uiObjectInfoApi` and display in a `lightning-combobox`
+Field level LWC to wrap both `getPicklistValues` from [lightning/uiObjectInfoApi](https://developer.salesforce.com/docs/component-library/documentation/en/48.0/lwc/lwc.reference_wire_adapters_picklist_values) and display in a `lightning-combobox`
 
 ## Public Members
 
