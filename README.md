@@ -16,6 +16,9 @@ Field level LWC to wrap both `getPicklistValues` from `lightning/uiObjectInfoApi
 | variant | prop | The variant of the `lightning-combobox`. Accepted Values of standard, label-hidden, label-inline, and label-stacked. Defaults to `standard`. |
 | onselected | event | Event fired when a the combobox is changed. `event.detail = option.value` |
 
+## Demo
+
+![demo](./demo.gif)
 
 ## Usage
 
