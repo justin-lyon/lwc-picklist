@@ -2,6 +2,10 @@
 
 Field level LWC to wrap both `getPicklistValues` from [lightning/uiObjectInfoApi](https://developer.salesforce.com/docs/component-library/documentation/en/48.0/lwc/lwc.reference_wire_adapters_picklist_values) and display in a `lightning-combobox`
 
+## License
+
+[BSD3 License](./LICENSE)
+
 ## Public Members
 
 | Name | Type | Description |
